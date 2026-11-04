@@ -1,0 +1,9 @@
+{
+  "name": "منصة روّاد | الإدارة والأداء المؤسسي",
+  "short_name": "روّاد المؤسسي",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0F385A",
+  "theme_color": "#0F385A",
+  "icons": [{ "src": "logo.svg", "sizes": "192x192 512x512", "type": "image/svg+xml" }]
+}
